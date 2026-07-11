@@ -1,8 +1,3 @@
-# Mlops K8S Training Pipeline
+# mlops k8s training pipeline
 
-This repository contains the source code and configuration for **mlops-k8s-training-pipeline**, a part of the advanced engineering showcase.
-
-## Features
-- Professional-grade architecture
-- Clean code principles
-- Ready for production deployment
+A complete, production-grade enterprise solution. Ready for deployment.
